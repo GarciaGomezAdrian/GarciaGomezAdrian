@@ -5,15 +5,17 @@
   <img src="assets/profile.jpg" alt="Adrián García photo" width="260" />
 </p>
 
+---
+
+### 🚀 Welcome to my GitHub!
+
 <p align="center">
   Junior web developer focused on practical, clean code. Currently learning <b>Python</b> and improving my engineering best practices.
-  <br/>
-  Based in <b>Seville, Spain</b> · open to collaboration.
 </p>
 
 ---
 
-## 🚀 About me
+## 📌 About me
 - 🎓 Final project: <b>Coworking Space Reservation System</b> (PHP + HTML + CSS).
 - 🐍 Learning: <b>Python</b> (fundamentals, scripting, OOP, small projects).
 - 🧰 I work daily with <b>Git/GitHub</b> and <b>Visual Studio Code</b>.
@@ -22,18 +24,21 @@
 ---
 
 ## 🛠️ Tech stack
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <br/>
-<strong>Learning:</strong> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<strong>Learning:</strong>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ---
 
-## 📌 Featured project
+## 🎓 My Own Projects (for learning)
 - **Coworking Reservation System** → <a href="https://github.com/GarciaGomezAdrian/SISTEMA-DE-GESTION-DE-RESERVAS-COWORKING">Repository</a>  
   <sub>Highlights based on the codebase:</sub>
   - User authentication and role-based admin area  
@@ -43,16 +48,8 @@
 
 ---
 
-## 📈 GitHub stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GarciaGomezAdrian&show_icons=true" alt="GitHub stats for GarciaGomezAdrian" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarciaGomezAdrian&layout=compact" alt="Top languages for GarciaGomezAdrian" />
-</p>
-
----
-
-## 🤝 Where to find me
-- GitHub: <a href="https://github.com/GarciaGomezAdrian">@GarciaGomezAdrian</a>
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriangarciagomez) 
 
 <!-- How to use this README:
 1) Create (or update) the special profile repo named GarciaGomezAdrian/GarciaGomezAdrian.
